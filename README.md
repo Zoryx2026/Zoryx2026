@@ -2,7 +2,7 @@
 
 ### A Full Stack student
 
-- 📍 Based in **Russia**.
+
 
 <hr>
 
